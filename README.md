@@ -6,7 +6,7 @@
 
 [Открыть приложение](https://test-workshop-hse.streamlit.app/)
 
-## 📦 Запуск локально
+## 📦 Запуск локально c VSCode
 
 ```bash
 streamlit run app.py
